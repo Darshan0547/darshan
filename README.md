@@ -1,5 +1,5 @@
 # darshan
 Hi
 My name is darshan
-I am a big hacker
-I will buy robosoft
+I am a hacker
+My dream is buy robosoft
